@@ -6,7 +6,8 @@ In this repository, I’ll explain how I recreated the chart originally created 
 [Here’s the link to Nicholas's chart.](https://www.linkedin.com/posts/nicholas-lea-trengrouse_powerbi-analytics-datavizualisation-activity-7262373673330688002-st9_?utm_source=share&utm_medium=member_desktop)
 
 This is my version of the chart,
-![image](https://raw.githubusercontent.com/fawzanameer/Powerbi-Ladder_Chart/refs/heads/main/Images/Chart.png)
+![Chart](https://github.com/user-attachments/assets/8c2719f3-e4df-44b3-befe-eb93ee9314db)
+
 
 ## Step-by-Step Process  
 
